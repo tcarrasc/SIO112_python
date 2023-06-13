@@ -8,6 +8,6 @@ If this is your first time considering the language, you can see about downloadi
 
 There are various environments that should be set up so that everything runs smoothly. This setup is typically ran with something like git bash (https://git-scm.com/downloads), which will also help with cloning this repository if one wishes to do so. More on installing Python, Anaconda, and git along with other Python basics can be found at SIO's Lisa Tauxe's python survival skills page: https://pmagpy.github.io/PmagPy-docs/resources/survival_skills.html#introduction-to-python-programming.
 
-Surely the professor will be able to answer any code questions that may come up as you go through these notebooks so feel free to reach out with any extraneous questions (tcarrasc@ucsd.edu).
+Surely the professor will be able to answer any code questions that may come up as you go through these notebooks, but feel free to reach out with any extraneous questions (tcarrasc@ucsd.edu).
 
 Enjoy!
